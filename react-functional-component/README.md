@@ -1,0 +1,1 @@
+A stateless React component to render a social card UI. Bootstrapped with [Create React App](https://create-react-app.dev/).
